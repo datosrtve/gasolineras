@@ -1,4 +1,4 @@
-direccion,mun_clean,codigo_postal,provincia,gasolina_95,gasolina_98,diesel,diesel_premium,lon,lat,rotulo,horario,ultimo_dato
+direccion,mun_clean,codigo_postal,provincia,gasolina_95,gasolina_98,diesel,diesel_premium,lon,lat,rotulo,horario,timestamp
 "(El Trebol) Avd. Jose Antonio Nº 7 (Salamanca-Coria Km 30,4)",Vecinos,37450,Salamanca,1.786,1.929,1.839,1.936,-5.877528,40.777472,EL TREBOL,L-S: 07:00-22:00; D: 08:00-22:00,2022-04-01 22:40:00
 (El Trebol) Ctra. Fregeneda Nº 12-22 Salamanca,Salamanca,37008,Salamanca,1.786,1.929,1.839,1.936,-5.67275,40.955806,EL TREBOL,L-S: 07:00-22:00; D: 08:00-22:00,2022-04-01 22:44:00
 "*El Trebol* Cr.alba De Tormes-Piedrahita  Km 5.200 Km 8,7",Calvarrasa De Arriba,37191,Salamanca,1.786,1.929,1.839,1.936,-5.58675,40.894167,EL TREBOL,L-S: 07:00-22:00; D: 08:00-22:00,2022-04-01 22:43:00
